@@ -1,0 +1,8 @@
+argv = ['./waf', 'configure']
+environ = {'MYVIMRC': '/Users/florentberthaut/.vimrc', 'TERM_SESSION_ID': 'BD40CC56-0FB7-4FBC-9039-A5D0D7F40A70', 'SSH_AUTH_SOCK': '/tmp/launch-A3fd8B/Listeners', 'VIMRUNTIME': '/usr/share/vim/vim73', 'TERM_PROGRAM_VERSION': '309', 'SHELL': '/bin/bash', 'LOGNAME': 'florentberthaut', 'USER': 'florentberthaut', 'HOME': '/Users/florentberthaut', 'PATH': '/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin', 'DISPLAY': '/tmp/launch-Cf3mhO/org.macosforge.xquartz:0', 'TMPDIR': '/var/folders/tv/mhlq506d7r94xtybgm__xz8r0000gp/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'fr_FR.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-1HGsAD/Render', 'SHLVL': '2', 'SECURITYSESSIONID': '186a4', 'VIM': '/usr/share/vim', '__CF_USER_TEXT_ENCODING': '0x1F6:0:91\n', 'Apple_Ubiquity_Message': '/tmp/launch-6OBp2r/Apple_Ubiquity_Message', 'PWD': '/Users/florentberthaut/INFO/INEDIT/ISCORE/libIscore-master/Example', '_': './waf', 'COMMAND_MODE': 'unix2003'}
+files = ['/Users/florentberthaut/INFO/INEDIT/ISCORE/libIscore-master/Example/wscript']
+hash = -215799625
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'prefix': '/usr/local/', 'download': False, 'force': False, 'check_cxx_compiler': 'g++', 'targets': '', 'out': ''}
+out_dir = '/Users/florentberthaut/INFO/INEDIT/ISCORE/libIscore-master/Example/build'
+run_dir = '/Users/florentberthaut/INFO/INEDIT/ISCORE/libIscore-master/Example'
+top_dir = '/Users/florentberthaut/INFO/INEDIT/ISCORE/libIscore-master/Example'
